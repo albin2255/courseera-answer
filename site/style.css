@@ -8,7 +8,7 @@ div.container{
 div.one{
     position: relative;
     float: left;
-    background-color: blue;
+    background-color:grey ;
     border:2px solid black;    
 }
 p{
@@ -23,7 +23,7 @@ div.small{
     position: absolute;
     right:0;
     top:0;
-    background-color: green;
+    background-color: red;
     border: 3px solid black;
     padding:3px;
 }
