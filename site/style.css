@@ -1,5 +1,6 @@
-.bg-black{
-    background-color: green;
+  .bg-{
+    background-color: grey;
+}
 nav.navbar-default a.navbar-brand {
     color: white;
     font-size: 2em;
